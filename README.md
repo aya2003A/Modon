@@ -61,10 +61,5 @@ Full measure list is documented in [`/docs/measures.dax`](docs/measures.dax).
 └── screenshots/                # Dashboard preview images
 ```
 
-## Preview
 
-*(Add a screenshot or GIF of the finished dashboard here once exported — Power BI: File → Export → Export to image/PDF)*
-
----
-
-**Author:** Aya Mahmoud Abdullah — [Portfolio] · [LinkedIn]
+**Author:** Aya Mahmoud Abdullah · [LinkedIn]
